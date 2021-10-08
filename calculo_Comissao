@@ -63,6 +63,7 @@
             // Mostrando Resultado
             
             echo "<br> <hr> O Salário Total de $nome é $saltotal";
+             echo "<br> <hr>  Total de $nome é $saltotal";
             echo "<hr>";
             echo "<br> <hr> "Hactoberfest";
         
