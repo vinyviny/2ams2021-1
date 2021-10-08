@@ -28,7 +28,7 @@
         <input class="form-control form-control-lg" type="text" name="txtsalfixo" placeholder="Salário Fixo">
         <br>
     
-        <label for="exampleFormControlInput1">Vendas</label>
+        <label for="exampleFormControlInput1">Compras</label>
         <br>
         <input class="form-control form-control-lg" type="text" name="txtvendas" placeholder="Vendas">
         <br>
