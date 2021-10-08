@@ -16,7 +16,7 @@
     <form method="GET">
         
        
-        <label for="exampleFormControlInput1">Nome</label>
+        <label for="exampleFormControlInput1">Idade</label>
          <label for="exampleFormControlInput1">Mudando </label>
         <label for="exampleFormControlInput1">Mudando </label>
         <br>
