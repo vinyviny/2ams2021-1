@@ -10,7 +10,7 @@
 
 <body class="container">
 
-    <h1 class="text-center">Calcula a Comissão dos Vendedores</h1>
+    <h1 class="text-center">Calcula a Comissão </h1>
     <hr>
     
     <form method="GET">
@@ -39,6 +39,8 @@
         <br>
         
         <button type="submit" class="btn btn-danger">Calcular</button>
+        <button type="submit" class="btn btn-danger">Limpar</button>
+        <button type="submit" class="btn btn-danger">Cancelar</button>
         
     </form>
 
@@ -60,6 +62,7 @@
             
             echo "<br> <hr> O Salário Total de $nome é $saltotal";
             echo "<hr>";
+            echo "<br> <hr> "Hactoberfest";
         
         }
     ?>
