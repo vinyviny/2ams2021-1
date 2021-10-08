@@ -18,7 +18,7 @@
        
         <label for="exampleFormControlInput1">Nome</label>
          <label for="exampleFormControlInput1">Mudando </label>
-        
+        <label for="exampleFormControlInput1">Mudando </label>
         <br>
         <input class="form-control form-control-lg" type="text" name="txtnome" placeholder="Nome">
         <br>
