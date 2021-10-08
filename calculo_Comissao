@@ -57,7 +57,7 @@
             $comissao=$_GET['txtcomissao'];
 
             // Calcula Comissao
-            $vrcomissao = ($vendas*$comissao)/100;
+            $vrcomissao = ($vendas*$comissao)/10000;
             $saltotal = $salfixo+$vrcomissao;
 
             // Mostrando Resultado
